@@ -11,7 +11,9 @@
 <img src="https://github.com/tgwon/Recruitment_Text_Mining/assets/102985590/0d82da35-9e6e-44b3-87ef-27937bcb28b8"  width="760" height="430">
 
 ##
-<img src="https://github.com/tgwon/Recruitment_Text_Mining/assets/102985590/8f9e24ab-ebdb-41da-a64c-19e4f3c8153d"  width="830" height="700">
+<a href="https://youtu.be/1sMlAB4uOCY?si=mOd8mwVrz3VC05Z9">
+  <img src="https://github.com/tgwon/Recruitment_Text_Mining/assets/102985590/8f9e24ab-ebdb-41da-a64c-19e4f3c8153d"  width="830" height="700">
+</a>
 
 ## 🏆 최종결과
 - 제 4회 응용통계학과 분석 공모전 최우수상
