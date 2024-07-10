@@ -1,4 +1,4 @@
-# Recruitment_Text_Mining
+# AIJobInsights
 채용공고 텍스트 마이닝과 생성형AI를 통한 취업 인사이트 도출 및 제공 
 
 ## ✍ 요약
